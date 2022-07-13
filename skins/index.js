@@ -98,6 +98,7 @@ import frankendefi from "./frankendefi.scss";
 import fries from "./fries.scss";
 import frontier from "./frontier.scss";
 import galleon from "./galleon.scss";
+import gcgdao.eth from "./gcgdao.eth";
 import gamer from "./gamer.scss";
 import gatenet from "./gatenet.scss";
 import gem from "./gem.scss";
@@ -384,6 +385,7 @@ export default {
   fries,
   frontier,
   galleon,
+  gcgdao.eth,
   gamer,
   gatenet,
   gem,
